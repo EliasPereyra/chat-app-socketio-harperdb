@@ -1,0 +1,22 @@
+.container {
+  margin: auto;
+  padding: 1em;
+  background-color: #56e269;
+  border-radius: 6px;
+  width: 30em;
+}
+
+.home-title {
+  margin-bottom: 1em;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+  align-items: center;
+}
+
+.input-home {
+  background-color: hsl(128, 84%, 75%);
+}
